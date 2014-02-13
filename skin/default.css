@@ -18,6 +18,14 @@ a:hover {
 	color: #C43153;
 }
 
+section a {
+    text-decoration: underline;
+}
+
+.bigquote a {
+    text-decoration: underline;
+}
+
 /* flexslider */
 .flex-control-paging li a {
 	background: #C43153;
