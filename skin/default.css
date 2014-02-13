@@ -23,7 +23,7 @@ section a {
 }
 
 .bigquote a {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 /* flexslider */

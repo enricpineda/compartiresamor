@@ -338,13 +338,13 @@ section.section {
 ============================= */
 
 #parallax1{	
-	background-image: url(../img/parallax/img1.jpg);
+	background-image: url(https://mediacru.sh/Mnm4AVkY8oRr.jpg);
 }
 #parallax2{	
-	background-image: url(../img/parallax/img2.jpg);
+	background-image: url(https://mediacru.sh/3vHSO_N0ZnF7.jpg);
 }
 #testimonials{	
-	background-image: url(../img/parallax/img3.jpg);
+	background-image: url(https://mediacru.sh/srtowwaydylB.jpg);
 }
 /*===========================
   --- Header & menu ----
@@ -1048,6 +1048,10 @@ a.socialIcon:hover, .socialHoverClass {
 }
 .btn-cta.btn-lg {
 	border-bottom: 4px solid;
+}
+
+.team-member {
+    margin-bottom: 20px;
 }
 
 /* ========================================
